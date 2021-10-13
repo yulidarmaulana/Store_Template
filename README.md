@@ -28,12 +28,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This project is my learning process slicing website design from figma to boostrap
+
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The following are the main frameworks/libraries used to create and develop this project.
 
-* [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+* [HTML]
+* [CSS]
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Demo
+
+The following is a demo of the project that was created
+
+[Demo](https://store-template.netlify.app/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
