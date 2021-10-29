@@ -30,6 +30,8 @@
 
 This project is my learning process slicing website design from figma to boostrap
 
+![](screenshoot.jpeg)
+
 ### Built With
 
 The following are the main frameworks/libraries used to create and develop this project.
