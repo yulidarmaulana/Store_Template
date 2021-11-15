@@ -47,6 +47,7 @@ The following are the main frameworks/libraries used to create and develop this 
 
 The following is a demo of the project that was created
 
-[Demo](https://store-template.netlify.app/)
+[Demo - Store-Template](https://store-template.netlify.app/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+![](/screenshot.jpeg)
